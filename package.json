@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-plugin-splashscreen (v4.0.2)](https://github.com/apache/cordova-plugin-splashscreen#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-splashscreen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-splashscreen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-splashscreen.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-splashscreen)",
+    "description": "#### basic test coverage for  [cordova-plugin-splashscreen (v4.0.2)](https://github.com/apache/cordova-plugin-splashscreen#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-splashscreen.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-splashscreen) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-splashscreen.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-splashscreen)",
     "devDependencies": {
         "cordova-plugin-splashscreen": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
